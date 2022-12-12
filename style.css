@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Khand&display=swap');
+body {
+    background-color: #FBC4C3;
+}
+.btn-primary {
+    width: 100%;
+    background: #932595;
+    border: none;
+}
+.btn-primary:hover {
+    background: #A909F4;
+}
+.img-login {
+    width: 260px;
+}
+h2 {
+    color: #A909F4;
+    font-family: 'Khand', sans-serif;
+    font-size: 30px;
+}
+h3 {
+    color: #FF0000;
+    padding: 10px 10px 10px;
+}
+
+#form-login label {
+    color: #fff;
+    font-size: 30px;
+}
+.link-p {
+    color: #932595;
+    font-size: 30px;
+    font-family: 'Khand', sans-serif;
+
+}
+.card-body {
+    color: #FFFFFF;
+    padding: 0;
+    width: 100px;
+    height: 80px;
+
+}
+.card-text {
+    color: #FFFFFF;
+    
+}
+.cont-dashboard {
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.card {
+    background-color: #A909F4;
+    width: 100px;
+
+}
+
+.material-symbols-outlined{
+    color: #FF00F;
+    justify-content: space-evenly;
+        
+}
+span {
+    color:#000000;
+    padding: 10px 10px 10px;
+    font-size: 24px;
+}
+
